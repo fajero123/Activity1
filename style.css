@@ -60,19 +60,14 @@
 }
 
 .top{
-	margin-left: 270px;
-	margin-top: 20px
+	margin-left: 100px;
+	margin-top: 100px
 }
 
 .title{
-	font-size: 50px;
-	padding-top: 10px;
+	font-size: 60px;
 	color: white;
-	font-family: fantasy;
-	height: 50px;
-	width: 350px;
+	font-family: sans-serif;
 	text-align: center;
-	text-shadow: 1px 3px 1px gray;
-	background-color: black;
 	
 }
